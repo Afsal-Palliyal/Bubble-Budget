@@ -2,9 +2,6 @@
 
 An **animated personal finance dashboard** that helps users visualize income, expenses, and savings using interactive bubble-based UI components.
 
-🔗 **Live App (Replit):**  
-https://replit.com/@palliyalafsal/Bubble-Budget
-
 🔗 **GitHub Repository:**  
 https://github.com/Afsal-Palliyal/Bubble-Budget
 
@@ -29,6 +26,44 @@ https://github.com/Afsal-Palliyal/Bubble-Budget
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Budget Bubbles</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/dashboard.png" width="400"/>
+    </td>
+    <td>
+      <img src="screenshots/bubbles.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Money</b></td>
+    <td align="center"><b>Savings</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/money.png" width="400"/>
+    </td>
+    <td>
+      <img src="screenshots/save.png" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <b>Progress View</b><br/>
+  <img src="screenshots/progress.png" width="600"/>
+</p>
+
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -41,33 +76,3 @@ Bubble-Budget/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
-🚀 Getting Started (Local Setup)
-
-1️⃣ Clone the repository
-git clone https://github.com/Afsal-Palliyal/Bubble-Budget.git
-cd Bubble-Budget
-
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Run the app
-npm run dev
-
-## 📸 Screenshots
-
-### Budget Bubbles
-![Budget Bubbles](screenshots/bubbles.png)
-
-### Money
-![Money](screenshots/money.png)
-
-### Save
-![Save](screenshots/save.png)
-
-### Progress
-![Progress](screenshots/progress.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
