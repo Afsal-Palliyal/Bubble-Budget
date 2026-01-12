@@ -53,3 +53,21 @@ npm install
 
 3️⃣ Run the app
 npm run dev
+
+## 📸 Screenshots
+
+### Budget Bubbles
+![Budget Bubbles](screenshots/bubbles.png)
+
+### Money
+![Money](screenshots/money.png)
+
+### Save
+![Save](screenshots/save.png)
+
+### Progress
+![Progress](screenshots/progress.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
