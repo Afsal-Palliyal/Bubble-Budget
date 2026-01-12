@@ -76,3 +76,14 @@ Bubble-Budget/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+
+🚀 Getting Started (Local Setup)
+1️⃣ Clone the repository
+git clone https://github.com/Afsal-Palliyal/Bubble-Budget.git
+cd Bubble-Budget
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the app
+npm run dev
