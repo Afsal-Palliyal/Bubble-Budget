@@ -1,0 +1,26 @@
+{
+   "css.lint.unknownAtRules": "ignore",
+   "css.lint.emptyRules": "ignore",
+   "cSpell.words": [
+      "contenteditable",
+      "svg",
+      "csv",
+      "csvg",
+      "crect",
+      "cmdk",
+      "drizzle",
+      "memoryStore",
+      "router",
+      "wouter",
+      "vaul",
+      "jridgewell",
+      "vite",
+      "hsl",
+      "rgba",
+      "backdrop",
+      "elevate",
+      "popover",
+      "antialiased",
+      "autoprefixer"
+   ]
+}
