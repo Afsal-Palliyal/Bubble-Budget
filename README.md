@@ -22,7 +22,7 @@ https://github.com/Afsal-Palliyal/Bubble-Budget
 - **Frontend:** TypeScript, Vite, CSS  
 - **Backend:** Node.js  
 - **Database / ORM:** Drizzle  
-- **Tooling:** Replit, GitHub  
+- **Tooling:** GitHub  
 
 ---
 
